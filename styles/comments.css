@@ -1,0 +1,88 @@
+/* */ 
+
+/* Comment Display */ 
+.avatar-frame {
+    width:4rem;
+    min-height:6rem;
+    float:left;
+}
+
+
+.comment-frame {
+    border:1px solid transparent; 
+    border-left: 6px solid transparent;
+    padding:0.5rem;
+}
+
+.comment-frame:hover {
+    border-left: 6px solid aliceblue;
+}
+
+.author-avatar{
+    height:3rem;
+    width:3rem;
+    border-radius:1.5rem;
+    float:left;
+    margin:auto 0.5rem;;
+}
+
+.author-name {
+    font-family:'Patua One', cursive; 
+}
+
+.comment-message {
+    font-family:'Alegreya Sans', sans-serif;
+ 
+}
+
+.comment-footer {
+    text-align: right;
+    
+}
+
+
+/* Comment Form */
+
+
+.form-element {
+    display:inline-block;
+    height:2rem;
+    max-height:2rem;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+.comment-label {
+    color:#fff;
+}
+
+.text-field {
+    border-radius:0.25rem;
+    border:1px solid transparent;
+    border-bottom:3px solid #e0e0e0;
+}
+
+.text-field:hover {
+    border-bottom:3px solid #9cf;
+}
+
+.text-field:active {
+    border-bottom:3px solid transparent;
+}
+
+.validation-btn {
+    border-radius:0.25rem;
+    margin:0.5rem;
+    padding:0.5rem;
+    border:none;
+    color:#fff;
+    background-color: #39F;
+    font-family:'Patua One', cursive;
+}
+
+.validation-btn:hover {
+    color:#39f;
+    background-color: #FFF;
+}
+
+.validation-btn:active {}

@@ -1,0 +1,59 @@
+/* STYLES DES PUBLICATIONS */ 
+
+.post-frame{
+    box-sizing: border-box;
+    width:100%;
+    background-color:#CCFFE5;
+    padding:0px;
+    margin-bottom:1rem;
+    border-radius: 10px;
+
+}
+
+.post-header{
+    margin:0px;
+    font-size:1.21rem;
+    text-align: center;
+    background-color: #39F;
+    color:#FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index:2;
+}
+
+.post-picture{
+    
+}
+
+.post-message{
+    margin: 0px auto;
+    padding:1em 2em;
+}
+
+.post-footer{
+    margin:0px;
+    color:#c0c0c0;
+    padding-right:10px;
+    padding-bottom:10px;
+
+}
+
+.post-comment-container{
+    text-align: right;
+    margin:0px;
+
+}
+
+.post-comment-link{
+    text-decoration:none;
+}
+
+
+.post-time-stamp{
+    font-style:italic;
+    font-size:smaller;
+    margin-right:0px;
+    font-size:0.8rem;
+    display:inline-block;
+    margin-right:15px;
+}

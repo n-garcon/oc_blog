@@ -1,0 +1,79 @@
+/* PARAMETRAGE GLOBAL */
+
+* {
+    font-family:'Alegreya Sans', sans-serif;
+}
+
+html, body {
+    margin:0px;
+}
+
+header {
+    margin-top:0px;
+    background-color: #39F;
+    height:4rem;
+    position:fixed; 
+    top:0px;
+    left:0px;
+    right:0px;
+}
+
+.header-padding {
+    height:5rem;
+}
+
+#site-name-container {
+    display:inline-block;
+    margin-top:0.5rem;
+    width:60%;
+}
+
+#site-name{
+    color:#FFF;
+    font-size:2rem;
+    text-decoration:none;
+    font-family:'Patua One', cursive;
+}
+
+#back-home {
+    display:inline-block;
+    margin: auto 1rem;
+    width:20%;
+    text-align:right;
+
+
+}
+
+.header-footer-column{
+    width:70%;
+    margin: 0px auto;
+}
+
+.main-column{
+    width:50%;
+    margin: 0px auto; 
+}
+
+th {
+    text-align:right;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Patua One', cursive;
+}
+
+#bottom-line {
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    height:4rem;
+    background-color: #39F;
+}
+
+.footer-padding {
+    height:5rem;
+}
+
+

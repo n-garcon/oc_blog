@@ -1,0 +1,25 @@
+/* FORM DISPLAY*/
+
+.access-frame {
+	min-width:400px;
+	width:40%;
+	margin:6rem auto;
+	background-color:#CCE5FF;
+	border-radius:0.7rem;
+	padding:1rem;
+	box-sizing:border-box;
+}
+
+.access-background {
+	position:fixed;
+	top:0px;
+	right:0px;
+	bottom:0px;
+	left:0px;
+	background-color:#C0C0C0;
+	padding:auto;
+}
+
+#registration th{
+	text-align:right;
+}
